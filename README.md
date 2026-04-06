@@ -18,7 +18,7 @@ Soy una desarrolladora apasionada por el ecosistema de **JavaScript/TypeScript**
 Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 * #### **SRAM - Sistema de Ranking de Artes Marciales** 🥋
-    * **Descripción:** Plataforma integral para la gestión de competencias de Karate. Incluye lógica compleja de puntuación para Kata/Kumite, gestión de registros de atletas y control de estados de pago.
+    * **Descripción:** Plataforma integral para la gestión de competencias de Karate. Incluye lógica compleja de puntuación para Kata/Kumite, registros de atletas y control de pagos.
     * **Tecnologías:** **Next.js, Nest.js, Drizzle ORM, PostgreSQL**.
     * **Repositorios:** [Frontend (Next.js)](https://github.com/katherineti/sram) | [Backend (API Nest.js)](https://github.com/katherineti/api-karate)
 
@@ -28,14 +28,24 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
     * **Repositorios:** [Frontend (Angular 19)](https://github.com/katherineti/app-servicio-medico) | [Backend (API Nest.js)](https://github.com/katherineti/api-servicio-medico)
 
 * #### **Pujaflash** ⚡🔨
-    * **Descripción:** Plataforma de subastas en línea que integra **IA (Google Genkit)** para potenciar la experiencia de usuario. Desarrollada con una arquitectura moderna de componentes y lógica de negocio optimizada.
-    * **Tecnologías:** **Next.js 15, TypeScript, Google Genkit AI, Tailwind CSS, Radix UI**.
+    * **Descripción:** Plataforma de subastas en línea que integra **IA (Google Genkit)** para potenciar la experiencia de usuario. Arquitectura moderna de componentes y lógica optimizada.
+    * **Tecnologías:** **Next.js 15, TypeScript, Google Genkit AI, Tailwind CSS**.
     * **Repositorio:** [Pujaflash (GitHub)](https://github.com/katherineti/pujaFlash)
 
 * #### **PlanSmart Voice - Organizador con Chatbot** 🤖📱
     * **Descripción:** Organizador inteligente con un **Chatbot integrado** que permite la interacción mediante comandos de voz y sincronización con Google.
     * **Tecnologías:** **React Native, Expo, AI Chatbot integration, Speech-to-Text**.
     * **Repositorio:** [PlanSmart Voice (GitHub)](https://github.com/katherineti/plan-smart-voice-copia1)
+
+* #### **Educación Transformadora (Veneduca)** 🎓🇻🇪
+    * **Descripción:** Plataforma enfocada en la modernización educativa y el acceso a contenido formativo. Interfaz de alto rendimiento y gestión de estado avanzada.
+    * **Tecnologías:** **React (Vite), TypeScript, TanStack Query, Tailwind CSS, Shadcn/UI**.
+    * **Repositorio:** [Veneduca Moderno (GitHub)](https://github.com/katherineti/veneduca-moderno)
+
+* #### **Enciende tu Idea** 💡
+    * **Descripción:** Espacio digital diseñado para impulsar la creatividad y la gestión de proyectos innovadores con una experiencia de usuario fluida y moderna.
+    * **Tecnologías:** **React (Vite), TypeScript, TanStack Query, Tailwind CSS, Shadcn/UI**.
+    * **Repositorio:** [Enciende tu Idea (GitHub)](https://github.com/katherineti/enciendetuidea)
 
 ---
 
@@ -44,7 +54,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 | Frontend | Backend | Base de Datos | Herramientas |
 | :--- | :--- | :--- | :--- |
 | Angular 19 / Next.js 15 | Nest.js / Node.js | PostgreSQL / MySQL | Git / GitHub |
-| TypeScript / React | Drizzle ORM | SQL Optimization | Expo / Docker |
+| React (Vite) / TypeScript | Drizzle ORM | SQL Optimization | Expo / Docker |
 
 ---
 
