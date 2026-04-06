@@ -21,16 +21,16 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
     * **Descripción:** Plataforma integral para la gestión de competencias de Karate. Incluye lógica compleja de puntuación para Kata/Kumite, gestión de registros de atletas y control de estados de pago.
     * **Tecnologías:** **Next.js, Nest.js, Drizzle ORM, PostgreSQL**.
     * **Repositorios:** [Frontend (Next.js)](https://github.com/katherineti/sram) | [Backend (API Nest.js)](https://github.com/katherineti/api-karate)
-    * **Estado:** En desarrollo activo.
 
 * #### **Sistema de Inventario Médico** 🏥
     * **Descripción:** API y Dashboard para el control de suministros médicos, alertas de vencimiento y generación de reportes en PDF.
     * **Tecnologías:** **Angular 19, Nest.js, Drizzle ORM, PostgreSQL**.
     * **Repositorios:** [Frontend (Angular 19)](https://github.com/katherineti/app-servicio-medico) | [Backend (API Nest.js)](https://github.com/katherineti/api-servicio-medico)
 
-* #### **Planificador Virtual (Mobile)** 📱
-    * **Descripción:** Aplicación móvil con asistencia de voz y sincronización de cuentas de Google.
-    * **Tecnologías:** **React Native, Expo, EAS**.
+* #### **PlanSmart Voice - Planificador Virtual** 🤖📱
+    * **Descripción:** Organizador inteligente con un **Chatbot integrado** que permite la interacción mediante comandos de voz. Incluye sincronización con cuentas de Google para una gestión eficiente de tareas.
+    * **Tecnologías:** **React Native, Expo, AI Chatbot integration, Speech-to-Text**.
+    * **Repositorio:** [PlanSmart Voice (GitHub)](https://github.com/katherineti/plan-smart-voice-copia1)
 
 ---
 
