@@ -18,13 +18,15 @@ Soy una desarrolladora apasionada por el ecosistema de **JavaScript/TypeScript**
 Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 * #### **SRAM - Sistema de Ranking de Artes Marciales** 🥋
-    * **Descripción:** Plataforma para la gestión de competencias de Karate, incluyendo lógica de puntuación para Kata/Kumite, registros y estados de pago.
+    * **Descripción:** Plataforma integral para la gestión de competencias de Karate. Incluye lógica compleja de puntuación para Kata/Kumite, gestión de registros de atletas y control de estados de pago.
     * **Tecnologías:** **Next.js, Nest.js, Drizzle ORM, PostgreSQL**.
-    * **Estado:** En desarrollo activo (Refinando lógica de torneos).
+    * **Repositorios:** [Frontend (Next.js)](https://github.com/katherineti/sram) | [Backend (API Nest.js)](https://github.com/katherineti/api-karate)
+    * **Estado:** En desarrollo activo.
 
 * #### **Sistema de Inventario Médico** 🏥
     * **Descripción:** API y Dashboard para el control de suministros médicos, alertas de vencimiento y generación de reportes en PDF.
     * **Tecnologías:** **Angular 19, Nest.js, Drizzle ORM, PostgreSQL**.
+    * **Repositorios:** [Frontend (Angular 19)](https://github.com/katherineti/app-servicio-medico) | [Backend (API Nest.js)](https://github.com/katherineti/api-servicio-medico)
 
 * #### **Planificador Virtual (Mobile)** 📱
     * **Descripción:** Aplicación móvil con asistencia de voz y sincronización de cuentas de Google.
