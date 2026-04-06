@@ -1,14 +1,14 @@
 # ¡Hola! Soy Katherine Gutiérrez 👋
-**Full-stack Developer | Ingeniería de Informática**
+**Full-stack Developer | Estudiante de Ingeniería de Informática**
 
 ---
 
 ### **Sobre mí** 🚀
 
-Soy una desarrolladora apasionada por el ecosistema de **JavaScript/TypeScript**. Actualmente curso el 10mo semestre de Ingeniería de Informática en la UAH. Me enfoco en construir aplicaciones robustas, escalables y con una excelente experiencia de usuario.
+Soy una desarrolladora apasionada por el ecosistema de **JavaScript/TypeScript**. Me enfoco en construir aplicaciones robustas, escalables y con una excelente experiencia de usuario, aplicando arquitecturas modernas y optimización de datos.
 
 * 🌍 Basada en: **Caracas, Venezuela**
-* 🎓 T.S.U. en Informática (2019) e Ingeniera en formación.
+* 🎓 T.S.U. en Informática (2019) | Ingeniería de Informática (UAH).
 * ⚡ Stack principal: **Angular 19 + Nest.js + PostgreSQL**.
 
 ---
@@ -36,8 +36,8 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 | Frontend | Backend | Base de Datos | Herramientas |
 | :--- | :--- | :--- | :--- |
-| Angular 19 / React | Nest.js / Node.js | PostgreSQL | Git / GitHub |
-| TypeScript | Drizzle ORM | SQL Optimization | Expo / Docker |
+| Angular 19 / Next.js | Nest.js / Node.js | PostgreSQL / MySQL | Git / GitHub |
+| TypeScript / React | Drizzle ORM | SQL Optimization | Expo / Docker |
 
 ---
 
