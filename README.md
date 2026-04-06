@@ -27,8 +27,13 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
     * **Tecnologías:** **Angular 19, Nest.js, Drizzle ORM, PostgreSQL**.
     * **Repositorios:** [Frontend (Angular 19)](https://github.com/katherineti/app-servicio-medico) | [Backend (API Nest.js)](https://github.com/katherineti/api-servicio-medico)
 
-* #### **PlanSmart Voice - Planificador Virtual** 🤖📱
-    * **Descripción:** Organizador inteligente con un **Chatbot integrado** que permite la interacción mediante comandos de voz. Incluye sincronización con cuentas de Google para una gestión eficiente de tareas.
+* #### **Pujaflash** ⚡🔨
+    * **Descripción:** Plataforma de subastas en línea que integra **IA (Google Genkit)** para potenciar la experiencia de usuario. Desarrollada con una arquitectura moderna de componentes y lógica de negocio optimizada.
+    * **Tecnologías:** **Next.js 15, TypeScript, Google Genkit AI, Tailwind CSS, Radix UI**.
+    * **Repositorio:** [Pujaflash (GitHub)](https://github.com/katherineti/pujaFlash)
+
+* #### **PlanSmart Voice - Organizador con Chatbot** 🤖📱
+    * **Descripción:** Organizador inteligente con un **Chatbot integrado** que permite la interacción mediante comandos de voz y sincronización con Google.
     * **Tecnologías:** **React Native, Expo, AI Chatbot integration, Speech-to-Text**.
     * **Repositorio:** [PlanSmart Voice (GitHub)](https://github.com/katherineti/plan-smart-voice-copia1)
 
@@ -38,7 +43,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 | Frontend | Backend | Base de Datos | Herramientas |
 | :--- | :--- | :--- | :--- |
-| Angular 19 / Next.js | Nest.js / Node.js | PostgreSQL / MySQL | Git / GitHub |
+| Angular 19 / Next.js 15 | Nest.js / Node.js | PostgreSQL / MySQL | Git / GitHub |
 | TypeScript / React | Drizzle ORM | SQL Optimization | Expo / Docker |
 
 ---
