@@ -47,6 +47,11 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
     * **Tecnologías:** **React (Vite), TypeScript, TanStack Query, Tailwind CSS, Shadcn/UI**.
     * **Repositorio:** [Enciende tu Idea (GitHub)](https://github.com/katherineti/enciendetuidea)
 
+* #### **Star Courses** ⭐📚
+    * **Descripción:** Plataforma de e-learning interactiva con sistemas de validación personalizados y carruseles dinámicos para una navegación fluida entre cursos.
+    * **Tecnologías:** **HTML5, CSS3, JavaScript (DOM/Regex), Bootstrap 5**.
+    * **Repositorio:** [Star Courses (GitHub)](https://github.com/katherineti/star-courses)
+
 ---
 
 ### **Tecnologías que utilizo** 💻
