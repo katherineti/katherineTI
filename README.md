@@ -48,7 +48,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
     * **Repositorio:** [Enciende tu Idea (GitHub)](https://github.com/katherineti/enciendetuidea)
 
 * #### **Star Courses** ⭐📚
-    * **Descripción:** Plataforma de e-learning interactiva con sistemas de validación personalizados y carruseles dinámicos para una navegación fluida entre cursos.
+    * **Descripción:** Interfaz moderna de e-learning que prioriza la navegación intuitiva a través de carruseles dinámicos y un flujo de autenticación optimizado.
     * **Tecnologías:** **HTML5, CSS3, JavaScript (DOM/Regex), Bootstrap 5**.
     * **Repositorio:** [Star Courses (GitHub)](https://github.com/katherineti/star-courses)
 
