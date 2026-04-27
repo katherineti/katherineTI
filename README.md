@@ -63,6 +63,13 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 ---
 
+
+### **IA** 
+
+* #### Gemini, Claude, V0, Firebase, VS Code con IA, Copilot, Lovable, Base44, FlutterFlow, Readdy
+
+---
+
 ### **Conecta conmigo** 👇
 
 ¡Hablemos de código o de nuevos proyectos!
