@@ -8,7 +8,7 @@
 Soy una desarrolladora apasionada por el ecosistema de **JavaScript/TypeScript**. Me enfoco en construir aplicaciones robustas, escalables y con una excelente experiencia de usuario, aplicando arquitecturas modernas y optimización de datos.
 
 * 🌍 Basada en: **Caracas, Venezuela**
-* 🎓 T.S.U. en Informática (2019) | Ingeniería de Informática (UAH).
+* 🎓 T.S.U. en Informática (2016-2019) | Ingeniería de Informática (UAH).
 * ⚡ Stack principal: **Angular 19 + Nest.js + PostgreSQL**.
 
 ---
