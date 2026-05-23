@@ -76,7 +76,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 * **LinkedIn:** [linkedin.com/in/katherine-gutiérrez](https://www.linkedin.com/in/katherine-guti%C3%A9rrez-891048153) 
 * **GitHub:** [@katherineti](https://github.com/katherineti)
-* **Torre.io:** [katherinegutierrez6](https://torre.ai/katherinegutierrez6)
+* **Torre.io:** [katherinegutierrez6](https://torre.ai/Revisa%20mi%20genoma%20en%20Torre.ai:%20https://torre.ai/s/cH7hnTfBfB)
 * **Correo:** [katherineti1609@gmail.com](mailto:katherineti1609@gmail.com)
 
 <p align="left">
