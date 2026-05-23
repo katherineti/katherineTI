@@ -76,6 +76,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 * **LinkedIn:** [linkedin.com/in/katherine-gutiérrez](https://www.linkedin.com/in/katherine-guti%C3%A9rrez-891048153) 
 * **GitHub:** [@katherineti](https://github.com/katherineti)
+* **Torre.io:** [katherinegutierrez6](https://torre.ai/katherinegutierrez6?utm_source=downloaded-bio-pdf&campaign_term=3253536&r=sMsr1oQy)
 * **Correo:** [katherineti1609@gmail.com](mailto:katherineti1609@gmail.com)
 
 <p align="left">
