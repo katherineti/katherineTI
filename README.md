@@ -20,7 +20,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 * #### **Gastos Vampiro - Rastreador de Suscripciones** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18"> 
     * **Descripción:** Aplicación de escritorio en Python que te ayuda a rastrear y controlar esos pagos mensuales repetitivos (como Netflix o Spotify) que consumen tu dinero en silencio.
     * **Características:** Añade/elimina suscripciones, calcula automáticamente el gasto mensual, proyecta el gasto anual estimado y exporta tus reportes directamente a PDF.
-    * **Tecnologías:** **Python, Tkinter (GUI), PDF Generation (ReportLab/FPDF)**.
+    * **Tecnologías:** **Python, Tkinter (GUI), PDF Generation (FPDF)**.
     * **Enlaces:** [Repositorio en GitHub](https://github.com/katherineti/app-desktop-streaming) | [Descargar Ejecutable (.exe)](https://github.com/katherineti/app-desktop-streaming/releases/tag/v1.0.0)
 
 * #### **SRAM - Sistema de Ranking de Artes Marciales** 🥋
