@@ -58,7 +58,7 @@ Aquí algunos de los sistemas que he diseñado y desarrollado:
 
 | Frontend | Backend | Base de Datos | Herramientas |
 | :--- | :--- | :--- | :--- |
-| Angular 19 / Next.js 15 | Nest.js / Node.js | PostgreSQL / MySQL | Git / GitHub |
+| Angular 19 / Next.js 15 | Nest.js / Node.js / Python (Básico) | PostgreSQL / MySQL | Git / GitHub |
 | React (Vite) / TypeScript | Drizzle ORM | SQL Optimization | Expo / Docker |
 
 ---
