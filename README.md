@@ -17,6 +17,12 @@ Soy una desarrolladora apasionada por el ecosistema de **JavaScript/TypeScript**
 
 Aquí algunos de los sistemas que he diseñado y desarrollado:
 
+* #### **Gastos Vampiro - Rastreador de Suscripciones** 🧛‍♂️💰
+    * **Descripción:** Aplicación de escritorio en Python que te ayuda a rastrear y controlar esos pagos mensuales repetitivos (como Netflix o Spotify) que consumen tu dinero en silencio.
+    * **Características:** Añade/elimina suscripciones, calcula automáticamente el gasto mensual, proyecta el gasto anual estimado y exporta tus reportes directamente a PDF.
+    * **Tecnologías:** **Python, Tkinter (GUI), PDF Generation (ReportLab/FPDF)**.
+    * **Enlaces:** [Repositorio en GitHub](https://github.com/katherineti/app-desktop-streaming) | [Descargar Ejecutable (.exe)](https://github.com/katherineti/app-desktop-streaming/releases/tag/v1.0.0)
+
 * #### **SRAM - Sistema de Ranking de Artes Marciales** 🥋
     * **Descripción:** Plataforma integral para la gestión de competencias de Karate. Incluye lógica compleja de puntuación para Kata/Kumite, registros de atletas y control de pagos.
     * **Tecnologías:** **Next.js, Nest.js, Drizzle ORM, PostgreSQL**.
